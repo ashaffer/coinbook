@@ -1,0 +1,26 @@
+{
+  "name": "coinbook",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ashaffer/coinbook.git"
+  },
+  "author": "ashaffer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashaffer/coinbook/issues"
+  },
+  "homepage": "https://github.com/ashaffer/coinbook",
+  "dependencies": {
+    "express": "^3.5.0",
+    "redis": "^0.10.1",
+    "cors": "^2.2.0",
+    "redwrap": "0.0.4",
+    "seq": "^0.3.5"
+  }
+}
